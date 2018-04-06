@@ -1,5 +1,5 @@
 /*
- * learning.java.basic
+ * learning.java.basic - the Java learning project
  */
 package learning.java.basic;
 
