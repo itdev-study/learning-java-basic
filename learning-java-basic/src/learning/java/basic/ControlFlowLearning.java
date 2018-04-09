@@ -1,5 +1,5 @@
 /*
- * Control Flow demo
+ * Control Flow demo.
  */
 package learning.java.basic;
 
