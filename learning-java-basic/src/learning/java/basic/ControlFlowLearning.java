@@ -1,5 +1,5 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
+ * Control Flow demo
  */
 package learning.java.basic;
 
@@ -20,10 +20,9 @@ public class ControlFlowLearning {
             System.out.println("Grade = " + grade);
     }
     
-    void SwitchCaseControl(int month) {
-        //int month = 8;
+    void SwitchCaseControl(int monthname) {       
         String monthString;
-        switch (month) {
+        switch (monthname) {
             case 1:  monthString = "January";
                      break;
             case 2:  monthString = "February";
