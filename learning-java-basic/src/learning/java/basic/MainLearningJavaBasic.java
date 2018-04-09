@@ -13,6 +13,12 @@ public class MainLearningJavaBasic {
         cyclesobject1.cycleForInt(3);
         cyclesobject1.cycleForArray(4);
         
+        ControlFlowLearning controlflowobject1 = new ControlFlowLearning();
+        controlflowobject1.IfElseControl(65);
+        controlflowobject1.SwitchCaseControl(9);
+        
+        
+        
     }
     
 }
