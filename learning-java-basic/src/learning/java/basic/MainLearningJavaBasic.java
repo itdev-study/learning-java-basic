@@ -17,8 +17,8 @@ public class MainLearningJavaBasic {
         controlflowobject1.IfElseControl(65);
         controlflowobject1.SwitchCaseControl(9);
         
-        
-        
+        ArraysLearning arraysLearning1 = new ArraysLearning();
+        arraysLearning1.ArrayListLearning();
     }
     
 }
