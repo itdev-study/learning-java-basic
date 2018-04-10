@@ -19,6 +19,16 @@ public class MainLearningJavaBasic {
         
         ArraysLearning arraysLearning1 = new ArraysLearning();
         arraysLearning1.ArrayListLearning();
+        
+        ClassForInterfaceLearning classForInterfaceLearning1 = new ClassForInterfaceLearning();
+        int cfivalue = classForInterfaceLearning1.getParameter();
+        System.out.println("Value from interface:" + cfivalue);  
+        
+        ClassForParentLearning classForParentLearning1 = new ClassForParentLearning();
+        int parentparamvalue = classForParentLearning1.GetParentParam1();
+        System.out.println("Value from parent class:" + parentparamvalue);  
+                
+        
     }
     
 }
