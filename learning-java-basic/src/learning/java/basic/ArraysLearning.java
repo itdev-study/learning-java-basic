@@ -1,5 +1,5 @@
 /*
- * Arrays Learning demo 1
+ * Arrays Learning demo 1.0
  */
 package learning.java.basic;
 import java.util.ArrayList;
