@@ -26,8 +26,7 @@ public class MainLearningJavaBasic {
         
         ClassForParentLearning classForParentLearning1 = new ClassForParentLearning();
         int parentparamvalue = classForParentLearning1.GetParentParam1();
-        System.out.println("Value from parent class:" + parentparamvalue);  
-                
+        System.out.println("Value from parent class:" + parentparamvalue);                  
         
     }
     
